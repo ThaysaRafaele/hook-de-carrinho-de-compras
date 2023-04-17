@@ -12,8 +12,8 @@
     "@types/react-dom": "^17.0.0",
     "axios": "^0.21.1",
     "polished": "^4.1.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-icons": "^4.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.1",
@@ -53,5 +53,9 @@
     "extends": [
       "react-app"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ThaysaRafaele/hook-de-carrinho-de-compras.git",
+  "author": "Thaysa <thaysarafaele@gmail.com>",
+  "license": "MIT"
 }
