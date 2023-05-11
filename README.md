@@ -13,7 +13,7 @@ Com acesso a duas páginas, um componente e um hook para implementar as funciona
 - Exibição de mensagens de erro;
 - Entre outros.
 
-Para esse desafio, além dos conceitos vistos em aula, foram utilizado alguns novos conceitos para deixar a aplicação ainda melhor:
+Para esse desafio, além dos conceitos vistos em aula, foram utilizados alguns novos conceitos para deixar a aplicação ainda melhor:
 
 - Fake API com JSON Server;
 - Preservar dados do carrinho com localStorage API;
